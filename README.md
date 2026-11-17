@@ -1,5 +1,5 @@
 # YADIRB - Yet Another Directory Buster
-`Yadirb` is a directory bruteforcing tool inspired by `dirb`.
+`Yadirb` is a directory bruteforcing tool inspired by `dirb`. 
 
 Although still under development, it works as a supposed tool **(multithreaded)**.
 
